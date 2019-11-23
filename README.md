@@ -19,5 +19,5 @@ This is a tool for automating bunker supplies and going afk while you are away f
 
 ### Exception Thrown Like below:
 
-![Exception](/images/Exception.png)
-Format: ![Exception Image]()
+![](Images/Exception.PNG)
+
