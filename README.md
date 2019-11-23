@@ -4,7 +4,7 @@ Get the latest version [here](https://github.com/Chiggy-Playz/Bunker-Automation-
 
 ## Get started in 6 simple steps. 
 
-1. Clone the project.
+1. Download BAU from link above
 2. Install Remote Play. Just run the PS4RemotePlay.exe .
 3. Install ViGEm Bus Drivers. This is necesarry as this will be sending input to the PS4. Just Run the ViGEmBusDriver.exe .
 4. Start Remote Play and connect to your PS4.
