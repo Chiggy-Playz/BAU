@@ -21,3 +21,4 @@ This is a tool for automating bunker supplies and going afk while you are away f
 
 ![](Images/Exception.PNG)
 
+This error means that you have not installed ViGEm Bus Drivers Properly.
