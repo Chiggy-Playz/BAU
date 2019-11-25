@@ -1,6 +1,6 @@
 # Bunker-Automation-Utility
 This is a tool for automating bunker supplies and going afk while you are away from your PS4. No ads, Free updates and bug fixes.
-## Get the latest version [here](https://github.com/Chiggy-Playz/Bunker-Automation-Utility/releases/download/v1.0Beta/Bunker-Automation-Utility.zip) 
+## Get the latest version [here](https://github.com/Chiggy-Playz/Bunker-Automation-Utility/releases/download/v1.0Beta/Bunker.Automation.Utility.exe) 
 
 ## Get started in 6 simple steps. 
 
