@@ -6,7 +6,7 @@ This is a tool for automating bunker supplies and going afk while you are away f
 
 1. Download BAU from link above
 2. Install Remote Play. Just run the PS4RemotePlay.exe .
-3. Run the Bunker-Automation-Utility.exe Setup.
+3. Run the Bunker-Automation-Utility.exe Setup and follow on screen instructions.
 4. Start Remote Play and connect to your PS4.
 5. Make sure your character is in the bunker and standing on the right side of the chair such that he can see the option that he has to register as MC or CEO in order to access the laptop. (Please do not become a CEO or MC as this would lead to loss)
 6. Run Bunker Automation Utility.exe Present on your Desktop or in your start menu. Set the Number of minutes. Set the number of resupply. Press Submit and leave the mouse. You are done. 
