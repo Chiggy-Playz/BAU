@@ -13,6 +13,12 @@ This is a tool for automating bunker supplies and going afk while you are away f
 5. Make sure your character is in the bunker and standing on the right side of the chair such that he can see the option that he has to register as MC or CEO in order to access the laptop. (Please do not become a CEO or MC as this would lead to loss)
 6. Run Bunker Automation Utility.exe Present on your Desktop or in your start menu. Set the Number of minutes. Set the number of resupply. Press Submit and leave the mouse. You are done. 
 
+## How does it work?
+
+1. The program emulates a Dual Shock 4 Controller. Thus it is capable of sending input to the Remote Play window. (HUGE THANKS TO ViGEm and Nefarious Software Solutions.)
+2. This allows the program to go afk, i.e. move your camera round and round. This also allows the promgram to buy the supplies automatically. And that is all the logic behind the program.
+3. What you have to do is very simple. Just set number of minutes until next resupply, and the total number of resupplies you want to do. That's it on your part. Rest of it will be automatic.
+
 ## What happens after pressing the button?
 
 1. The PS4 Remote Play screen will automatically be brought to focus.
