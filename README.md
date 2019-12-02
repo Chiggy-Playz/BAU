@@ -21,6 +21,9 @@ This is a tool for automating bunker supplies and going afk while you are away f
 
 ## Trouble Shooting:
 
+
+## Discord Server : https://discord.gg/hudxAAE
+
 ### Exception Thrown Like below:
 
 ![](Images/Exception.PNG)
