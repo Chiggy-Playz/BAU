@@ -32,9 +32,13 @@ This is a tool for automating bunker supplies and going afk while you are away f
 3. After the Number of Minutes ending, the character will automatically become a CEO, Resupply the stock, and Retire from CEO. Thats it. THis process repeats for the number of time you have set.
 
 ## Trouble Shooting:
-
-
 ## Discord Server : [Bunker Automation Utility](https://discord.gg/hudxAAE)
+
+### How to stand?
+![](Images/How to stand.jpg)
+![](Images/How to stand 2.jpg)
+
+This is how you are supposed to stand. On the side of the chair with the pop up for "Please register as CEO or MC".
 ### Exception Thrown Like below:
 
 ![](Images/Exception.PNG)
