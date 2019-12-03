@@ -4,6 +4,11 @@ This is a tool for automating bunker supplies and going afk while you are away f
 ## NOTE: THIS IS IN BETA NOW. IT MAY LEAD TO LOSS OF MONEY OR TIME.
 ## Get the latest version [here](https://github.com/Chiggy-Playz/Bunker-Automation-Utility/releases/download/v1.0Beta/Bunker.Automation.Utility.exe) 
 
+## Requirements:
+1. Windows 10
+2. Remote Play
+3. Good internet connection
+
 ## Get started in 6 simple steps. 
 
 1. Download BAU from link above
