@@ -35,7 +35,7 @@ This is a tool for automating bunker supplies and going afk while you are away f
 ## Discord Server : [Bunker Automation Utility](https://discord.gg/hudxAAE)
 
 ### How to stand?
-![](Images/Stand.JPG)
+![](Images/https://github.com/Chiggy-Playz/Bunker-Automation-Utility/blob/master/Images/Stand.jpg)
 ![](Images/Stand2.JPG)
 
 This is how you are supposed to stand. On the side of the chair with the pop up for "Please register as CEO or MC".
