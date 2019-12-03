@@ -1,7 +1,7 @@
 # Bunker-Automation-Utility
 This is a tool for automating bunker supplies and going afk while you are away from your PS4. No ads, Free updates and bug fixes.
 
-![](https://github.com/Chiggy-Playz/Bunker-Automation-Utility/blob/master/Images/BAU.PNG)
+![](https://raw.githubusercontent.com/Chiggy-Playz/Bunker-Automation-Utility/master/Images/BAU.PNG)
 
 ## NOTE: THIS IS IN BETA NOW. IT MAY LEAD TO LOSS OF MONEY OR TIME.
 ## Get the latest version [here](https://github.com/Chiggy-Playz/Bunker-Automation-Utility/releases/download/v1.0Beta/Bunker.Automation.Utility.exe) 
@@ -37,11 +37,11 @@ This is a tool for automating bunker supplies and going afk while you are away f
 ## Discord Server : [Bunker Automation Utility](https://discord.gg/hudxAAE)
 
 ### How to stand?
-![](Images/Stand.jpg)
+![](https://raw.githubusercontent.com/Chiggy-Playz/Bunker-Automation-Utility/master/Images/Stand.jpg)
 
 This is how you are supposed to stand. On the side of the chair with the pop up for "Please register as CEO or MC".
 ### Exception Thrown Like below:
 
-![](Images/Exception.PNG)
+![](https://raw.githubusercontent.com/Chiggy-Playz/Bunker-Automation-Utility/master/Images/Exception.PNG)
 
 This error means that you have not installed ViGEm Bus Drivers Properly. Make sure that you have restarted the PC after installing. If the problem still persists, try re-installing.
