@@ -42,4 +42,4 @@ This is how you are supposed to stand. On the side of the chair with the pop up 
 
 ![](Images/Exception.PNG)
 
-This error means that you have not installed ViGEm Bus Drivers Properly.
+This error means that you have not installed ViGEm Bus Drivers Properly. Make sure that you have restarted the PC after installing. If the problem still persists, try re-installing.
