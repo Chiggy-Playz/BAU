@@ -24,13 +24,13 @@ This is a tool for automating bunker supplies and going afk while you are away f
 ## How does it work?
 
 1. The program emulates a Dual Shock 4 Controller. Thus it is capable of sending input to the Remote Play window. (HUGE THANKS TO ViGEm and Nefarious Software Solutions.)
-2. This allows the program to go afk, i.e. move your camera round and round. This also allows the promgram to buy the supplies automatically. And that is all the logic behind the program.
+2. This allows the program to go afk, i.e. move your camera round and round. This also allows the program to buy the supplies automatically. And that is all the logic behind the program.
 3. What you have to do is very simple. Just set number of minutes until next resupply, and the total number of resupplies you want to do. That's it on your part. Rest of it will be automatic.
 
 ## What happens after pressing the button?
 
 1. The PS4 Remote Play screen will automatically be brought to focus.
-2. The character will start looking around him so as to not get kicked for being idle. He will do this for the number of minutes you have set
+2. The character will start looking around him so as to not get kicked for being idle. He will do this for the number of minutes you have set.
 3. After the Number of Minutes ending, the character will automatically become a CEO, Resupply the stock, and Retire from CEO. Thats it. THis process repeats for the number of time you have set.
 
 ## Trouble Shooting:
