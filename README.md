@@ -29,7 +29,8 @@ This is a tool for automating bunker supplies and going afk while you are away f
 
 ## Will this get me banned? Short Answer, NO.
 
-**NO. You will NOT get banned. There is 0% chance that you will get banned. How do I know this? According to the game, you are just seeing round and round. It does not care how your character is moving. The game does not know that it is being played through Remote Play. There is no algorithm made by Rockstar to detect wether someone is AFK'ing. Therefore there is NO Chance that you will get banned or anything.** 
+**NO. You will NOT get banned. There is 0% chance that you will get banned.
+How do I know this? According to the game, you are just seeing round and round. It does not care how your character is moving. The game does not know that it is being played through Remote Play. There is no algorithm made by Rockstar to detect wether someone is AFK'ing. Therefore there is NO Chance that you will get banned or anything.** 
 
 
 ## What happens after pressing the button?
