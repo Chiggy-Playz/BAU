@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Bunker Automation Utilty
 future: true
-show_downloads: true
+show_downloads: "true"
