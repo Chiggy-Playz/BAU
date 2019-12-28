@@ -27,6 +27,11 @@ This is a tool for automating bunker supplies and going afk while you are away f
 2. This allows the program to go afk, i.e. move your camera round and round. This also allows the program to buy the supplies automatically. And that is all the logic behind the program.
 3. What you have to do is very simple. Just set number of minutes until next resupply, and the total number of resupplies you want to do. That's it on your part. Rest of it will be automatic.
 
+## Will this get me banned? Short Answer, NO.
+
+**NO. You will NOT get banned. There is 0% chance that you will get banned. How do I know this? According to the game, you are just seeing round and round. It does not care how your character is moving. The game does not know that it is being played through Remote Play. There is no algorithm made by Rockstar to detect wether someone is AFK'ing. Therefore there is NO Chance that you will get banned or anything.** 
+
+
 ## What happens after pressing the button?
 
 1. The PS4 Remote Play screen will automatically be brought to focus.
