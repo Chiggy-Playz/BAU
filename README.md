@@ -31,7 +31,7 @@ This is a tool for automating bunker supplies and going afk while you are away f
 
 1. The PS4 Remote Play screen will automatically be brought to focus.
 2. The character will start looking around him so as to not get kicked for being idle. He will do this for the number of minutes you have set.
-3. After the Number of Minutes ending, the character will automatically become a CEO, Resupply the stock, and Retire from CEO. Thats it. THis process repeats for the number of time you have set.
+3. After the Number of Minutes ending, the character will automatically become a CEO, Resupply the stock, and Retire from CEO. Thats it. This process repeats for the number of time you have set.
 
 ## Trouble Shooting:
 ## Discord Server : [Bunker Automation Utility](https://discord.gg/hudxAAE)
