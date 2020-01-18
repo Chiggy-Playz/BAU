@@ -3,7 +3,7 @@ This is a tool for automating bunker supplies and going afk while you are away f
 
 ![](https://raw.githubusercontent.com/Chiggy-Playz/Bunker-Automation-Utility/master/Images/BAU.PNG)
 
-## NOTE: THIS IS IN BETA NOW. IT MAY LEAD TO LOSS OF MONEY OR TIME.
+## NOTE: THIS IS IN BETA NOW. IT MAY LEAD TO LOSS OF MONEY OR TIME. THIS FOR THOSE WHO HAVE COMPLETELY UPGRADED THE BUNKER.(SECURITY UPDATE NOT REQUIRED)
 ## Get the latest version [here](https://github.com/Chiggy-Playz/Bunker-Automation-Utility/releases/download/1.30/Bunker-Automation-Utility.Setup.exe).
 
 ## Requirements:
